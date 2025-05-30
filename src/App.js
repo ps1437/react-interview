@@ -1,13 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import InfiniteScrollMultiAPI from './InfiniteScrollMultiAPI';
-import ApiSimulator from './CreateMockApiCall';
-import ApiSimulatorWithError from './CreateMockApiCall-errr';
-import { InfiniteScrollComponent } from './InfiniteScroll-2';
+
 
 function App() {
   return (
-   <InfiniteScrollComponent/>
+   <div>  Hello World!</div>
+  // <div className="App">
   );
 }
 

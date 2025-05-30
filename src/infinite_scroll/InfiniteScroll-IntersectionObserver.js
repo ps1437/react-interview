@@ -1,5 +1,6 @@
 import React from 'react';
 
+//Mock API functions to simulate fetching posts and comments -Start
 const fetchPosts = async (page) => {
     await new Promise(resolve => setTimeout(resolve, 1000));
     return Array.from({ length: 5 }, (_, i) => ({
@@ -16,6 +17,8 @@ const fetchComments = async (page) => {
         text: `Comment ${page * 5 + i + 1}`
     }));
 };
+//Mock API functions to simulate fetching posts and comments -END
+
 
 
 export const InfiniteScrollComponent = () => {
