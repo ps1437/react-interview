@@ -1,6 +1,9 @@
 
 ##  Paginated Photos Grid
 
+### Fetch data from api
+### Apply search filter on data grid
+
 ```jsx
 import React, { useEffect, useState } from 'react';
 
