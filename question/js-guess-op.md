@@ -1,15 +1,15 @@
 1. What's the output?
 ```jsx
 function sayHi() {
-  console.log(name);
-  console.log(age);
+  console.log(name);// undefined 
+  console.log(age);// reference error
   var name = 'Lydia'; //hoisting = undefined
   let age = 21;
 }
 
 sayHi();
 ```
-Answer : undefined and ReferenceError
+
 --
 
 2. What's the output?
