@@ -1,8 +1,3 @@
-Sure! Here’s a React.js coding question markdown file that shows managing **multiple form inputs using a single state object** with `useState`.
-
----
-
-````markdown
 # React.js Coding Question
 
 ## Question: Manage Multiple Form Inputs Using a Single Object State
