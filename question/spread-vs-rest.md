@@ -1,6 +1,4 @@
-Sure! Here's a clean, well-structured markdown (`.md`) file explaining the **spread** vs **rest** operators in JavaScript:
 
-````markdown
 # Spread vs Rest Operator in JavaScript
 
 JavaScript introduced the **spread** and **rest** operators in ES6 (ECMAScript 2015). Both use the same syntax `...` but serve different purposes depending on the context.
