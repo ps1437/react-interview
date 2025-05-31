@@ -1,8 +1,4 @@
-Here’s a set of **React console-based coding questions** related to **state** — formatted in `.md` style with code snippets and explanations. These questions test your understanding of how `useState` and state updates work in React:
 
----
-
-````md
 ## React State-Based Console Log Output Guess Questions
 
 ### 1. Multiple State Updates in One Render
