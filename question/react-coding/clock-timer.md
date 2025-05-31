@@ -1,8 +1,3 @@
-Sure! Here’s a **React.js coding question** markdown file for building a **Clock Timer** using `setInterval` (internal timer). It includes a sample solution with functional components and hooks.
-
----
-
-````markdown
 # React.js Coding Question
 
 ## Question: Build a Clock Timer Component
