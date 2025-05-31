@@ -1,4 +1,3 @@
-# React.js Coding Question
 
 ## Question: Build a Form with Basic Validation Without Using Any Library
 
