@@ -1,8 +1,3 @@
-Here’s a React.js markdown file for **form validation without any external library**. It uses simple custom validation logic inside the component.
-
----
-
-```markdown
 # React.js Coding Question
 
 ## Question: Build a Form with Basic Validation Without Using Any Library
