@@ -1,4 +1,4 @@
-Here's a `.md` (Markdown) file format 
+ 
 # JavaScript `var`, `let`, and `const` Interview Questions
 
 This document explores differences and tricky scenarios with `var`, `let`, and `const` in JavaScript through code-based interview questions.
