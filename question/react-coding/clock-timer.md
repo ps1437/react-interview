@@ -1,5 +1,3 @@
-# React.js Coding Question
-
 ## Question: Build a Clock Timer Component
 
 Create a React component called `ClockTimer` that:
