@@ -40,6 +40,7 @@ This document lists the study files in the recommended order to maximize learnin
 
 18. [top_10_interview_questions.md](question/top_10_interview_questions.md)  
 
+ref - [More React questions](https://github.com/ps1437/interview-preparations/blob/main/react/react.md)
 ---
 
 *Happy studying!*
