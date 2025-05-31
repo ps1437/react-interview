@@ -1,3 +1,9 @@
+# React js Question 
+## Question:
+The UserSearch component fetches a list of users and filters them based on the user's input. What potential optimization can you introduce to reduce the number of unnecessary re-renders or performance hits as the user types in the search input, and how would you implement it?
+
+Follow-up (optional):
+Can you explain the concept of debouncing in the context of input handling and apply it to this component?
 
 ```jsx
 
