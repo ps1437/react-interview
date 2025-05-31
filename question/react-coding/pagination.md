@@ -1,9 +1,23 @@
 
 ##  Paginated Photos Grid
 
-### Fetch data from api
-### Apply search filter on data grid
+## Features Implemented
 
+1. **Fetch data from API and display on grid**  
+   - Uses `fetch` inside `useEffect` to retrieve data from `https://jsonplaceholder.typicode.com/users`
+   - Displays the data in a structured list (can be replaced with a grid component like `Material-UI` or `CSS Grid`)
+
+2. **Display loader while data is being fetched**  
+   - Shows a `"Loading users..."` message when `loading` is `true`
+
+3. **Display "No data found" when no data matches the filter**  
+   - If the filtered user list is empty, it shows `"No results found"`
+
+4. **Display error message in case of failures**  
+   - If the API call fails, shows an error message in red with `Error: <error message>`
+
+5. **Apply search filter on grid**  
+   - Includes a search input to filter users by name in real time using `.filter()` on the `users` array
 ```jsx
 import React, { useEffect, useState } from 'react';
 
