@@ -1,8 +1,3 @@
-Sure! Here's a React.js markdown file example showing how to **fetch data from an API and render it in the UI** using hooks (`useEffect` and `useState`):
-
----
-
-````markdown
 # React.js Coding Question
 
 ## Question: Fetch Data from an API and Render It in the UI
